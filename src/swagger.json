@@ -1,0 +1,13 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "TestApi Documentation",
+    "description": "TestApi Documentation with all specifications",
+    "version": "1.0.0",
+    "contact": {
+      "name": "Vinicius",
+      "email": ""
+    }
+  },
+  "paths": {}
+}
